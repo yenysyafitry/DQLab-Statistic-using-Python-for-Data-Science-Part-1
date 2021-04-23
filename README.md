@@ -1,32 +1,35 @@
 ### Beberapa Konsep Dasar Statistika
-Populasi, sampel dan observasi/pengamatan
-Observasi: Adalah suatu unit yang diukur dengan data. Beberapa contoh diantaranya adalah:
 
-Siswa
-Warga negara
-Hewan
-Kendaraan
-Populasi: Adalah koleksi dari keseluruhan observasi. Beberapa contoh diantaranya adalah:
-
-Semua siswa yang ada di sekolah
-Semua warga negara Indonesia,
-Semua hewan yang ada di hutan lindung,
-Semua kendaraan di Jakarta
-Sampel: Adalah sub koleksi dari populasi. Beberapa contoh diantaranya adalah:
-
-5 siswa dari masing-masing kelas di suatu sekolah
-100 warga negara Indonesia yang diambil dari beberapa wilayah
-Beberapa species hewan tertentu di suatu hutan lindung
-3 jenis kendaraan di Jakarta
-
-Parameter adalah penjelasan atas populasi sedangkan statistik hanya menjelaskan sampel dari populasi. Untuk kasus terkait segmentasi pasar, mengukur revenue dari setiap orang di dalam segmen adalah parameter sedangkan jika kita hanya mengambil 20% dari tiap segmen hal ini dikatakan sebagai statistik.
+<p align="justify">Populasi, sampel dan observasi/pengamatan
+Observasi: Adalah suatu unit yang diukur dengan data. Beberapa contoh diantaranya adalah: </p>
+<ol><li>
+Siswa</li>
+<li>Warga negara</li>
+<li>Hewan</li>
+<li>Kendaraan</li></ol>
+<p align="justify">
+Populasi: Adalah koleksi dari keseluruhan observasi. Beberapa contoh diantaranya adalah:</p>
+<ol><li>
+Semua siswa yang ada di sekolah</li>
+<li>Semua warga negara Indonesia,</li>
+<li>Semua hewan yang ada di hutan lindung,</li>
+<li>Semua kendaraan di Jakarta</li></ol>
+<p align="justify">
+Sampel: Adalah sub koleksi dari populasi. Beberapa contoh diantaranya adalah:</p>
+<ul><li>
+5 siswa dari masing-masing kelas di suatu sekolah</li>
+<li>100 warga negara Indonesia yang diambil dari beberapa wilayah</li>
+<li>Beberapa species hewan tertentu di suatu hutan lindung</li>
+<li>3 jenis kendaraan di Jakarta</li></ul>
+<p align="justify">
+Parameter adalah penjelasan atas populasi sedangkan statistik hanya menjelaskan sampel dari populasi. Untuk kasus terkait segmentasi pasar, mengukur revenue dari setiap orang di dalam segmen adalah parameter sedangkan jika kita hanya mengambil 20% dari tiap segmen hal ini dikatakan sebagai statistik.</p>
 
 ### Data Kualitatif dan Data Kuantitatif
-Terdapat dua kategori data yang terdapat pada populasi atau sampel, yaitu data kualitatif dan data kuantitatif.
+<p align="justify">Terdapat dua kategori data yang terdapat pada populasi atau sampel, yaitu data kualitatif dan data kuantitatif.</p>
+<ul><li>
+Data kualitatif adalah data yang diperoleh dari mengkategorikan atau menjelaskan suatu atribut dari populasi atau sampel. Biasanya disebut juga sebagai data kategorik. Beberapa contoh data kualitatif misalnya warna rambut, golongan darah, nama jalan, nama produk yang digunakan dan lain sebagainya.Biasanya data kualitatif selalu disebutkan dalam bentuk kata ataupun simbol.</li>
 
-Data kualitatif adalah data yang diperoleh dari mengkategorikan atau menjelaskan suatu atribut dari populasi atau sampel. Biasanya disebut juga sebagai data kategorik. Beberapa contoh data kualitatif misalnya warna rambut, golongan darah, nama jalan, nama produk yang digunakan dan lain sebagainya.Biasanya data kualitatif selalu disebutkan dalam bentuk kata ataupun simbol.
-
-Data kuantitatif adalah data yang diperoleh dari ukuran atau hitungan di suatu populasi atau sampel. Data kuantitatif selalu berbentuk angka. Data seperti gaji, berat badan, populasi di suatu negara, dan jumlah pelanggan yang dimiliki suatu e-commerce termasuk data kuantitatif. Data kuantitatif sendiri dapat dibagi menjadi dua yaitu data diskrit dan data kontinu.
+<li>Data kuantitatif adalah data yang diperoleh dari ukuran atau hitungan di suatu populasi atau sampel. Data kuantitatif selalu berbentuk angka. Data seperti gaji, berat badan, populasi di suatu negara, dan jumlah pelanggan yang dimiliki suatu e-commerce termasuk data kuantitatif. Data kuantitatif sendiri dapat dibagi menjadi dua yaitu data diskrit dan data kontinu.</li></ul>
 
 Data yang diperoleh dari hasil perhitungan adalah data diskrit: jumlah pelanggan, jumlah produk, dan jumlah telefon yang diterima oleh customer service per harinya adalah beberapa contoh data diskrit.
 
